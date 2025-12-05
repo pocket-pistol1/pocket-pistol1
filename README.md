@@ -14,20 +14,21 @@ Here are some ideas to get you started:
 -->
 <h1>pocket_pistol1</h1>
 <h3>The man. The myth. The legend.</h3>
-is cool.
-</br>
+is cool.</br>
 He/Him </br>
 Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
-Languages
--------------------------------------------------------------------------
+# Languages
 - <h4>Java</h4>
 - <h4>C++</h4>
 
-Intrests
-------------------------------------------------------------------------
+# Intrests
 - <h4>Programming (believe it or not)</h4>
 - <h4>U.S College Wrestling</h4>
 - <h4>Video Edititng</h4>
 - <h4>Pixel Art</h4>
 - <h4>Game Development</h4>
+
+# Links
+Youtube: https://www.youtube.com/@PocketPistol5
+Tiktok: https://www.tiktok.com/@pocketpistol15
