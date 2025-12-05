@@ -31,6 +31,7 @@ Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 <h4>Game Development</h4>
 
 # Links
+Email: pocketpistol556@gmail.com </br>
 Youtube: https://www.youtube.com/@PocketPistol5 </br>
 reel0nez: https://www.youtube.com/@reelonez-69 </br>
 Tiktok: https://www.tiktok.com/@pocketpistol15
