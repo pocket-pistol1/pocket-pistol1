@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 # pocket_pistol1
 Also known as "Pocket"
 is cool.
-
-He/Him
+</br>
+He/Him </br>
 Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
 Languages
