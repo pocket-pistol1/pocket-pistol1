@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h3>The man. The myth. The legend.</h3>
 is cool.</br>
 He/Him </br>
+The Bestest reel0nez member</br>
 Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
 # Languages
@@ -31,4 +32,5 @@ Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
 # Links
 Youtube: https://www.youtube.com/@PocketPistol5 </br>
+reel0nez: https://www.youtube.com/@reelonez-69 </br>
 Tiktok: https://www.tiktok.com/@pocketpistol15
