@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# pocket_pistol1
-<h4>The man. The myth. The legend.</h4>
+# <h1>pocket_pistol1</h1>
+<h3>The man. The myth. The legend.</h3>
 is cool.
 </br>
 He/Him </br>
@@ -21,13 +21,13 @@ Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
 Languages
 -------------------------------------------------------------------------
-- <h3>Java</h3>
-- <h3>C++</h3>
+- <h4>Java</h4>
+- <h4>C++</h4>
 
 Intrests
 ------------------------------------------------------------------------
-- <h3>Programming (believe it or not)</h3>
-- <h3>U.S College Wrestling</h3>
-- <h3>Video Edititng</h3>
-- <h3>Pixel Art</h3>
-- <h3>Game Development</h3>
+- <h4>Programming (believe it or not)</h4>
+- <h4>U.S College Wrestling</h4>
+- <h4>Video Edititng</h4>
+- <h4>Pixel Art</h4>
+- <h4>Game Development</h4>
