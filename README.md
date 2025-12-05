@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **pocket-pistol1/pocket-pistol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# pocket_pistol1
+Also known as "Pocket"
+is cool.
+
+He/Him
+Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
+
+Languages
+-------------------------------------------------------------------------
+- Java (My personal favorite)
+- C++
+
