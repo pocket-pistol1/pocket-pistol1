@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <h1>pocket_pistol1</h1>
+<h1>pocket_pistol1</h1>
 <h3>The man. The myth. The legend.</h3>
 is cool.
 </br>
