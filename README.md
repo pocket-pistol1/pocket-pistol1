@@ -21,7 +21,7 @@ Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
 Languages
 -------------------------------------------------------------------------
-- <h3>Java</h3> (My primary language)
+- <h3>Java</h3>
 - <h3>C++</h3>
 
 Intrests
