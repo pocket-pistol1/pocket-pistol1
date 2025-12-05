@@ -20,8 +20,8 @@ The Bestest reel0nez member</br>
 Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
 # Languages
-<h4>Java</h4>
-<h4>C++</h4>
+<h4>System.out.println("Java");</h4>
+<h4>cout <<"C++"<< endl;</h4>
 
 # Intrests
 <h4>Programming (believe it or not)</h4>
