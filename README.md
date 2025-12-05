@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # pocket_pistol1
-Also known as "Pocket"
+<h4>The man. The myth. The legend.</h4>
 is cool.
 </br>
 He/Him </br>
@@ -21,6 +21,13 @@ Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
 Languages
 -------------------------------------------------------------------------
-- Java (My personal favorite)
-- C++
+- <h3>Java</h3> (My primary language)
+- <h3>C++</h3>
 
+Intrests
+------------------------------------------------------------------------
+- <h3>Programming (believe it or not)</h3>
+- <h3>U.S College Wrestling</h3>
+- <h3>Video Edititng</h3>
+- <h3>Pixel Art</h3>
+- <h3>Game Development</h3>
