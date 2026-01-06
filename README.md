@@ -26,7 +26,6 @@ Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
 # Intrests
 <h4>Programming (believe it or not)</h4>
-<h4>U.S College Wrestling</h4>
 <h4>Video Edititng</h4>
 <h4>Pixel Art</h4>
 <h4>Game Development</h4>
