@@ -22,7 +22,7 @@ Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
 # Languages
 <h4>Java</h4>
-<h4>C++</h4>
+<h4>C/C++</h4>
 <h4>Rust</h4>
 <h4>C#</h4>
 
