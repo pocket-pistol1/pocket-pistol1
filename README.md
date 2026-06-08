@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1280px-Rust_programming_language_black_logo.svg.png" alt="Rust Logo" width="150" height="150">
 <h3>Rust</h3>
 <p>Rust is by far my favorite langauge, and what I make the majority of my personal projects in. I appreicate its commitent to safety over all else, and generally seem to see eye to eye with many of its design philosphies.</p>
-----
+------------------------
 
 # Intrests
 <h4>Programming (believe it or not)</h4>
