@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Pocket Pistol](https://github.com/user-attachments/assets/e79c7012-cfd6-445d-8de8-dee726aca2af)
-<h3>The man. The myth. The legend.</h3>
-is cool.</br>
-
-He/Him </br>
-The Bestest reel0nez member</br>
-Lives at: 2561 Kentucky Avenue, Indianapolis, IN 46221 (Totally trust)
 
 # Languages
 <h4>Java</h4>
