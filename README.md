@@ -14,11 +14,18 @@ Here are some ideas to get you started:
 -->
 ![Pocket Pistol](https://github.com/user-attachments/assets/e79c7012-cfd6-445d-8de8-dee726aca2af)
 
+# About
+<h3>pocket_pistol1</h3>
+<p> I'll write this later. </p>
+
 # Languages
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1280px-Rust_programming_language_black_logo.svg.png" alt="Rust Logo" width="150" height="150">
 <h3>Rust</h3>
 <p>Rust is by far my favorite langauge, and what I make the majority of my personal projects in. I appreicate its commitent to safety over all else, and generally seem to see eye to eye with many of its design philosphies.</p>
-------------------------
+</br>
+
+<h3>C</h3>
+<p>C mainly is my language of choice for low-level programming, that something like Rust or Java can't quite do. I mainly like its simplicty and power, having a small and easy to learn standard libary, and generally giving the progammer control over everything that happens in their program.</p>
+</br>
 
 # Intrests
 <h4>Programming (believe it or not)</h4>
