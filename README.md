@@ -24,14 +24,8 @@ Here are some ideas to get you started:
 * JS/HTML/CSS
 * C#
 
-# Intrests
-<h4>Programming (believe it or not)</h4>
-<h4>Video Edititng</h4>
-<h4>Pixel Art</h4>
-<h4>Game Development</h4>
-
 # Links
 Email: pocketpistol556@gmail.com </br>
-Youtube: https://www.youtube.com/@PocketPistol5 </br>
-reel0nez: https://www.youtube.com/@reelonez-69 </br>
-Tiktok: https://www.tiktok.com/@pocketpistol15
+Youtube: https://www.youtube.com/@pocket_pistol1 </br>
+Twitch: https://www.twitch.tv/pocket_pistol1 </br>
+Tiktok: https://www.tiktok.com/@p0cket_pistol1
