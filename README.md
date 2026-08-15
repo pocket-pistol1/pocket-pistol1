@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # About
 <h3>pocket_pistol1</h3>
-<p> I'll write this later. </p>
+<p> A, mostly low level, developer who just makes stuff that sounds cool to have. I mostly perfer to write stuff in C, Rust or Java. p>
 
 # Languages
 * Rust
