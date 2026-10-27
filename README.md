@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Links
 <a href="https://www.youtube.com/@pocket_pistol1">
-  <img src="pocket_pistol1 youtube" alt="ytlink" height="150px" width="150px">
+  <img src="pocket_pistol1 youtube.png" alt="ytlink" height="150px" width="150px">
 </a>
 
 # About
