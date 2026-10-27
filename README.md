@@ -12,13 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Links
-<a href="https://www.youtube.com/@pocket_pistol1">
-  <img src="pocket_pistol1 youtube.png" alt="ytlink" height="150px" width="150px">
-</a>
-<a href="https://www.twitch.tv/pocket_pistol1">
-  <img src="pocket_pistol1 twitch.png" alt="twitchlink" height="150px" width="150px">
-</a>
 
 
 # About
@@ -27,6 +20,7 @@ Here are some ideas to get you started:
 </br>
 <p> Worth mentioning that I do a bit of streaming and content creation on the side, mostly just to fulfill my own boredom when I get tired of error messages for the day.</p>
 
+
 # Languages
 * Rust
 * C/C++
@@ -34,8 +28,11 @@ Here are some ideas to get you started:
 * JS/HTML/CSS
 * C#
 
+
 # Links
-Email: pocketpistol556@gmail.com </br>
-Youtube: https://www.youtube.com/@pocket_pistol1 </br>
-Twitch: https://www.twitch.tv/pocket_pistol1 </br>
-Tiktok: https://www.tiktok.com/@p0cket_pistol1
+<a href="https://www.youtube.com/@pocket_pistol1">
+  <img src="pocket_pistol1 youtube.png" alt="ytlink" height="150px" width="150px">
+</a>
+<a href="https://www.twitch.tv/pocket_pistol1">
+  <img src="pocket_pistol1 twitch.png" alt="twitchlink" height="150px" width="150px">
+</a>
