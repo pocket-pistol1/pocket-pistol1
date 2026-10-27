@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/@pocket_pistol1">
   <img src="pocket_pistol1 youtube.png" alt="ytlink" height="150px" width="150px">
 </a>
+<a href="https://www.twitch.tv/pocket_pistol1">
+  <img src="pocket_pistol1 twitch.png" alt="twitchlink" height="150px" width="150px">
+</a>
+
 
 # About
 <h3>pocket_pistol1</h3>
