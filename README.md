@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 -->
 # About
 <h3>pocket_pistol1</h3>
-<p> A— mostly low level— developer who just makes stuff that sounds cool to have. I mostly perfer to write stuff in C, Rust or Java. </p>
+<p> A bottom of the barrel developer who mainly works in low level languages like C/C++, and Rust, along with a few OOP-focused languages like Java or C#. Many projects I make will be miscellaneous libraries, mods for video games I like and automation for things I find tedious to do.  </p>
 
 # Languages
 * Rust
-* C
-* C++
+* C/C++
 * Java
 * JS/HTML/CSS
 * C#
