@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Links
 <a href="https://www.youtube.com/@pocket_pistol1">
   <img src="https://panels.twitch.tv/panel-952410517-image-3f62d950-22d0-4e86-a3b4-60ceabcfc32c" alt="ytlink" height="150px" width="150px">
 </a>
