@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.youtube.com/@pocket_pistol1">
+  <img src="https://panels.twitch.tv/panel-952410517-image-3f62d950-22d0-4e86-a3b4-60ceabcfc32c" alt="ytlink"
+/a>
+
 # About
 <h3>pocket_pistol1</h3>
 <p> A bottom of the barrel developer who mainly works in low level languages like C/C++, and Rust, along with a few OOP-focused languages like Java or C#. Many projects I make will be miscellaneous libraries, mods for video games I like and automation for things I find tedious to do. </p>
